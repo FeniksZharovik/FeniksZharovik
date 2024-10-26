@@ -18,8 +18,3 @@
   <img src="https://raw.githubusercontent.com/Basisty034/basisty034/master/profile-summary-card-output/2077/3-stats.svg" alt="Stats">
   <img src="https://raw.githubusercontent.com/Basisty034/basisty034/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time">
 </div>
-
-<!-- Additional GitHub Stats -->
-<div style="margin-top: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Basisty034&show_icons=true&locale=en&theme=2077" alt="Basisty034" />
-</div>
