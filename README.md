@@ -21,5 +21,5 @@
 
 <!-- Additional GitHub Stats -->
 <div style="margin-top: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Basisty034&show_icons=true&locale=en&theme=tokyonight" alt="Basisty034" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Basisty034&show_icons=true&locale=en&theme=2077" alt="Basisty034" />
 </div>
